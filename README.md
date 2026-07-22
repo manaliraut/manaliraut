@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=90&section=header"/>
+
 <h1 align="center">Hi 👋, I'm Manali Raut</h1>
 <h3 align="center">Say hi to Dogs 🐶 | Be leaf in yourself 🌻 | Go Pro Girl 👠 | Flower power 🌸</h3>
 
@@ -40,7 +42,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manaliraut&theme=radical" height="165"/>
-</p>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manaliraut&theme=tokyonight" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadakakarla&theme=tokyonight" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manaliraut&theme=tokyonight&utcOffset=-8" />
+  </p>
+
 
 ---
 
@@ -53,5 +59,7 @@
 ---
 
 <p align="center">
-  <i>Thanks for stopping by! Feel free to connect on <a href="https://www.linkedin.com/in/manali-raut">LinkedIn</a></i>
+  <i>Feel free to connect on <a href="https://www.linkedin.com/in/manali-raut">LinkedIn</a></i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=80&section=footer"/>
